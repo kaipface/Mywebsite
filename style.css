@@ -1,0 +1,47 @@
+#banner {width: 100%;
+}
+
+#logo {width: 30%;
+}
+
+body {
+	font-family: 'roboto', sans-serif;
+	text-align: center;
+	background: #9773e6;
+}
+
+h1 {
+	font-size: 260%;
+}
+
+h2 {
+	font-size: 200%;
+}
+
+a{ 
+text-decoration: none; }
+
+.place {
+	height: 330px;
+	width:  330px;
+	object-fit: cover;
+	border-radius: 20px;
+}
+
+li {
+	list-style-type: none;
+	line-height: 30px;
+} 
+
+#topbanner {
+	display:  flex;
+}
+
+p {
+	z-index: ;
+
+}
+
+#logo { 
+		transform: translate(-100%, -200%);
+		 }
